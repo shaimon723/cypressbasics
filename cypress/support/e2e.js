@@ -21,3 +21,4 @@ import './commands'
 require("@cypress/xpath") //always req plugin before runing in test specs(cases)
 
 require('@4tw/cypress-drag-drop')
+
